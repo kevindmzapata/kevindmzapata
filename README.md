@@ -116,22 +116,6 @@
     <img width="12" />
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
     <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
-    <img src="" height="40" alt="logo"  />
-    <img width="12" />
 </div>
 
 ###

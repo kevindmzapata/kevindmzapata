@@ -5,11 +5,11 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/kevin-david-martinez-zapata-308481293" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-david-martinez-zapata-308481293/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://orcid.org/0009-0009-4937-3856" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="25" alt="orcid logo" />
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=ORCID&label=&color=48b500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="orcid logo" />
   </a>
 </div>
 

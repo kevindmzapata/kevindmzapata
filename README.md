@@ -12,42 +12,56 @@
 </div>
 
 <h1 align="center">Hola, soy Kevin Martinez 👋</h1>
-<h3 align="center">Academic Engineer | Data Science & Machine Learning Researcher</h3>
+<h3 align="center">Senior Master's Student | Academic Engineer | Data Scientist</h3>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-Ingeniero e investigador académico radicado en Colombia. Mi trabajo se centra en la intersección de **Machine Learning**, **Deep Learning** y sistemas de ingeniería aplicada.
+Ingeniero e investigador académico radicado en Colombia. Mi trabajo integra la rigurosidad científica con el desarrollo de software moderno.
 
-- 🔭 Actualmente investigando modelos predictivos (Seq2Seq) para demanda eléctrica en **Microredes**.
-- 🔬 Trabajando en extracción de características para sistemas de comunicación óptica.
-- 📚 Profundizando en arquitecturas avanzadas de Deep Learning con **PyTorch**.
-- ⚡ Interés técnico: Desarrollo de librerías Python para estándares como OpenFMB.
+- 🔭 **Investigación Actual:** Modelos predictivos (Seq2Seq) para demanda eléctrica en **Microredes**.
+- 🎓 **Grado:** Senior Master's Student (MSc).
+- 🔬 **Intereses:** Deep Learning, Sistemas de Comunicación Óptica y Arquitecturas de Software.
+- ⚡ **Hobby:** Desarrollo de librerías Python y optimización de código.
 
 ---
 
-### 🛠 Stack Tecnológico
+### 🧠 Stack Principal: Data Science & Academia
 
-**Ciencia de Datos & IA**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </div>
 
-**Herramientas Académicas & Backend**
+### 🛠️ Stack Secundario: Full Stack & Tools
+
 <div align="left">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
@@ -55,7 +69,7 @@ Ingeniero e investigador académico radicado en Colombia. Mi trabajo se centra e
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevindmzapata&show_icons=true&theme=dracula&hide_border=true" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevindmzapata&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=kevindmzapata&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br/>

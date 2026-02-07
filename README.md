@@ -1,131 +1,63 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kevin-david-martinez-zapata-308481293/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
   <a href="https://orcid.org/0009-0009-4937-3856" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ORCID&logo=ORCID&label=&color=48b500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="orcid logo" />
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="orcid logo" />
   </a>
 </div>
 
-###
+<h1 align="center">Hola, soy Kevin Martinez 👋</h1>
+<h3 align="center">Academic Engineer | Data Science & Machine Learning Researcher</h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kevindmzapata.visitor-badge"  />
-</div>
+---
 
-###
+### 👨‍💻 Sobre mí
 
-<h1 align="center">hey there 👋</h1>
+Ingeniero e investigador académico radicado en Colombia. Mi trabajo se centra en la intersección de **Machine Learning**, **Deep Learning** y sistemas de ingeniería aplicada.
 
-###
+- 🔭 Actualmente investigando modelos predictivos (Seq2Seq) para demanda eléctrica en **Microredes**.
+- 🔬 Trabajando en extracción de características para sistemas de comunicación óptica.
+- 📚 Profundizando en arquitecturas avanzadas de Deep Learning con **PyTorch**.
+- ⚡ Interés técnico: Desarrollo de librerías Python para estándares como OpenFMB.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 🛠 Stack Tecnológico
 
-<p align="left">I'm Kevin Martinez from Colombia<br><br>- 🔭 I’m currently working on machine learning and data science.<br>- 📚 I'm currently learning about Data Science and Machine Learing tools.<br>- ⚡ In my free time I pick code.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+**Ciencia de Datos & IA**
 <div align="left">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" height="40" alt="android logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="c logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" height="40" alt="django logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="git logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" height="40" alt="keras logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opencv/opencv-original-wordmark.svg" height="40" alt="opencv logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="40" alt="php logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"  />
-    <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </div>
 
-###
+**Herramientas Académicas & Backend**
+<div align="left">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 🔥 GitHub Stats
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kevindmzapata&theme=dracula&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevindmzapata&show_icons=true&theme=dracula&hide_border=true" alt="Kevin's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kevindmzapata&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindmzapata&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
-
-###

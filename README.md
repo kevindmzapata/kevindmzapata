@@ -69,9 +69,9 @@ Ingeniero e investigador académico radicado en Colombia. Mi trabajo integra la 
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevindmzapata&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
-  <br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kevindmzapata&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Kevin's GitHub Stats" />
+  <br/> -->
   <img src="https://streak-stats.demolab.com?user=kevindmzapata&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindmzapata&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <!-- <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindmzapata&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" /> -->
 </div>

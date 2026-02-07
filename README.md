@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/kevin-david-martinez-zapata-308481293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
+  <a href="https://scholar.google.com/citations?user=DOnw_dEAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar logo" />
+  </a>
   <a href="https://orcid.org/0009-0009-4937-3856" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="orcid logo" />
   </a>

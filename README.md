@@ -14,23 +14,20 @@
   </a>
 </div>
 
-<h1 align="center">Hola, soy Kevin Martinez 👋</h1>
-<h3 align="center">Senior Master's Student | Academic Engineer | Data Scientist</h3>
+<h1 align="center">I'm Kevin Martinez 👋</h1>
+<h3 align="center">MSc Student</h3>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
-Ingeniero e investigador académico radicado en Colombia. Mi trabajo integra la rigurosidad científica con el desarrollo de software moderno.
+I'm an electronic engineer and MSc student from Colombia.
 
-- 🔭 **Investigación Actual:** Modelos predictivos (Seq2Seq) para demanda eléctrica en **Microredes**.
-- 🎓 **Grado:** Senior Master's Student (MSc).
-- 🔬 **Intereses:** Deep Learning, Sistemas de Comunicación Óptica y Arquitecturas de Software.
-- ⚡ **Hobby:** Desarrollo de librerías Python y optimización de código.
-
+- 🔭 **Current Investigation:** Machine learning models (including sequence and generative models) for forecasting tasks in electrical power systems.
+- 🔬 **Interests:** Machine learning applied to engineering problems.
 ---
 
-### 🧠 Stack Principal: Data Science & Academia
+### 🧠 Principal Stack: Data Science
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +44,7 @@ Ingeniero e investigador académico radicado en Colombia. Mi trabajo integra la 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </div>
 
-### 🛠️ Stack Secundario: Full Stack & Tools
+### 🛠️ Secondary Stack:
 
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
